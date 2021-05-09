@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">MonCashAPI</string>
+    <string name="achte">ACHTE</string>
+    <string name="kob">445 HTG</string>
+    <string name="spagetti_bongu">Spagetti Bongu</string>
+    <string name="client_id">708518ab42d767714d84a06ac0b829f7</string>
+    <string name="client_secret">F7u3LGIoZRxt_SghPAAg8bgO2qg9D-RcV0CvZdfrbedrhqCE5zxy7Y98sX4ZJ0xB</string>
+    <string name="kob2">1040</string>
+    <string name="sac_chiritos">Sac Chiritos</string>
+</resources>
