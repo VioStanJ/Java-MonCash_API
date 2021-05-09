@@ -5,7 +5,12 @@ Test Moncash API on Android
 
 Dependencies :
 ###### Google JSon
-    `implementation 'com.google.code.gson:gson:2.8.0'`
+    implementation 'com.google.code.gson:gson:2.8.0'
     
 ###### Apache Client
-    `implementation 'org.apache.httpcomponents:httpclient-android:4.3.5.1'`
+    implementation 'org.apache.httpcomponents:httpclient-android:4.3.5.1'
+    
+ Request Internet permission
+    <uses-permission android:name="android.permission.INTERNET" />
+ 
+ 
