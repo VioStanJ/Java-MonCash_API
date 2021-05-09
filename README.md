@@ -11,6 +11,7 @@ Dependencies :
     implementation 'org.apache.httpcomponents:httpclient-android:4.3.5.1'
     
  Request Internet permission
-    - <uses-permission android:name="android.permission.INTERNET" />
- 
- 
+    ` <uses-permission android:name="android.permission.INTERNET" /> `
+    
+## Use the MonCash Documentation :
+[Moncash Java Doc...](https://sandbox.moncashbutton.digicelgroup.com/Moncash-business/resources/doc/RestAPI_MonCashSDK_doc_Java.pdf)
