@@ -1,4 +1,4 @@
-# Java-MonCash_API
+# Android : MonCash API ( Test )
 Test Moncash API on Android
 
 #This is a test project about Moncash Sandbox API integration
